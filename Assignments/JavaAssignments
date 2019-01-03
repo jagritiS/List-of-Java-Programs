@@ -1,0 +1,47 @@
+Create calculation between two numbers -using multiple class and constructors
+Create student registration and display total students - using inheritance
+Create ATM  application -Using Interface
+Create program that goes for self driving and manual driving cars --using abstract classe
+Create Electronic Voting machine --Using Encapsulation
+Create date conversion from AD to BS and BS to AD -using Date API
+Calculate your age and find out whether you are eligible for voting or not
+Calculate total days left for your upcoming birthday
+check for leap year ==>user dates
+1.Create calculation between two numbers +using multiple class and constructors
+2.Create student registration and display total students - using inheritance +multiple class
+3.Find out prime numbers between any given range +multiple class
+4.Swap any three user provided values +multiple class
+5.Write a java program to compute the sum of digits of a number +multiple class
+6.Find out smallest numbers from any three user given numbers +multiple class
+
+package javaTutorial;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class GetPrimeNumbers{
+public static void main(String[] args){
+Scanner in = new Scanner(System.in);
+System.out.println("Enter a number from which you want prime number: ");
+int p1 = in.nextInt();
+System.out.println("Enter one more number till which you want prime number: ");
+int p2 = in.nextInt();
+ArrayList&lt;Integer&gt; prime = new ArrayList&lt;Integer&gt;();
+int i=2;
+for(int p=p1; p&lt;=p2; p++){
+i=2;
+for(; i&lt;10; i++){
+if(p%i==0 &amp;&amp; p!=i){
+break;
+}
+}
+if(i==10){
+prime.add(p);
+}
+}
+System.out.println("Prime numbers between "+p1+" and "+p2+" are: ");
+for(int j=0; j&lt;prime.size(); j++){
+System.out.print(prime.get(j).toString()+", ");
+}
+}
+}
