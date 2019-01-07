@@ -7,7 +7,7 @@ import java.math.BigInteger;
  */
 public class QNo7 {
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
+        // find out the last 10 digit of series 1^1+2^2+3^3+....1000^1000
         long result = 0;
         long modulo = (long) 10000000000.0;
 
