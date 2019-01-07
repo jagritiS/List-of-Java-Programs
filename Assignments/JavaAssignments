@@ -17,6 +17,7 @@ check for leap year ==>user dates
 1^1+2^2+3^3+4^4+.....1000^1000 = ?
 answer is 9110846700
 
+
 package javaTutorial;
 
 import java.util.ArrayList;
