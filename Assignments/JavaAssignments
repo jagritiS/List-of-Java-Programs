@@ -16,7 +16,13 @@ check for leap year ==>user dates
 7.Find the last 10 digit of sum series given series
 1^1+2^2+3^3+4^4+.....1000^1000 = ?
 answer is 9110846700
-
+8. what is the smallest odd composite no that doesnt satisfy following
+ 7 = 5+2*1^2
+ 9  = 7 + 2*1^2
+9. create an array capable of holding n integers and Modify the code in the loop so that it saves
+each sequential value to its corresponding location in the array. For example, the first value must be
+stored in , the second value must be stored in , and so on. for eg input is 56, 23, 12 98 then output will be
+12,23,56,98
 
 package javaTutorial;
 
