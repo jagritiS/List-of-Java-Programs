@@ -13,6 +13,9 @@ check for leap year ==>user dates
 4.Swap any three user provided values +multiple class
 5.Write a java program to compute the sum of digits of a number +multiple class
 6.Find out smallest numbers from any three user given numbers +multiple class
+7.Find the last 10 digit of sum series given series
+1^1+2^2+3^3+4^4+.....1000^1000 = ?
+answer is 9110846700
 
 package javaTutorial;
 
