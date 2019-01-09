@@ -23,6 +23,8 @@ answer is 9110846700
 each sequential value to its corresponding location in the array. For example, the first value must be
 stored in , the second value must be stored in , and so on. for eg input is 56, 23, 12 98 then output will be
 12,23,56,98
+10.Remove the repeated elements in an array
+for eg : array --> 10,20,2,10,34,11,20,2 output will be 10,20,2,34,11
 
 package javaTutorial;
 
