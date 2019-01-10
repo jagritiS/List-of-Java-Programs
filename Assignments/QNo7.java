@@ -15,7 +15,7 @@ public class QNo7 {
             long temp = i;
             for (int j = 1; j < i; j++) {
                 temp *= i;
-               
+
                 temp %= modulo;
 
             }
