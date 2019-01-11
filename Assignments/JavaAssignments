@@ -32,6 +32,6 @@ Lambda Expression
 12.Given a character c returns a boolean indicating if it is equal to ‘y’.
 13.Given two numbers x and y returns another number with their summation.
 14.Given two integers a and b returns another integer with the sum of their squares.
-17.Given a string s prints the string to the main output and returns void.
-18.Give no parameters prints Hello World! to the main output and returns void.
-19.Check whether the number is odd,even, prime, composite,palindrome
+15.Given a string s prints the string to the main output and returns void.
+16.Give no parameters prints Hello World! to the main output and returns void.
+17.Check whether the number is odd,even, prime, composite,palindrome
