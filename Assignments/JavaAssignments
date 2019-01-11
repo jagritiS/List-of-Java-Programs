@@ -35,3 +35,4 @@ Lambda Expression
 15.Given a string s prints the string to the main output and returns void.
 16.Give no parameters prints Hello World! to the main output and returns void.
 17.Check whether the number is odd,even, prime, composite,palindrome
+
