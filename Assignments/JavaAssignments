@@ -26,34 +26,12 @@ stored in , the second value must be stored in , and so on. for eg input is 56, 
 10.Remove the repeated elements in an array
 for eg : array --> 10,20,2,10,34,11,20,2 output will be 10,20,2,34,11
 
-package javaTutorial;
-
-import java.util.ArrayList;
-import java.util.Scanner;
-
-public class GetPrimeNumbers{
-public static void main(String[] args){
-Scanner in = new Scanner(System.in);
-System.out.println("Enter a number from which you want prime number: ");
-int p1 = in.nextInt();
-System.out.println("Enter one more number till which you want prime number: ");
-int p2 = in.nextInt();
-ArrayList&lt;Integer&gt; prime = new ArrayList&lt;Integer&gt;();
-int i=2;
-for(int p=p1; p&lt;=p2; p++){
-i=2;
-for(; i&lt;10; i++){
-if(p%i==0 &amp;&amp; p!=i){
-break;
-}
-}
-if(i==10){
-prime.add(p);
-}
-}
-System.out.println("Prime numbers between "+p1+" and "+p2+" are: ");
-for(int j=0; j&lt;prime.size(); j++){
-System.out.print(prime.get(j).toString()+", ");
-}
-}
-}
+Topic java 8
+Lambda Expression
+11.Given a number n returns a boolean indicating if it is odd.
+12.Given a character c returns a boolean indicating if it is equal to ‘y’.
+13.Given two numbers x and y returns another number with their summation.
+14.Given two integers a and b returns another integer with the sum of their squares.
+17.Given a string s prints the string to the main output and returns void.
+18.Give no parameters prints Hello World! to the main output and returns void.
+19.Check whether the number is odd,even, prime, composite,palindrome
