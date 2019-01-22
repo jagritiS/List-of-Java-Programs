@@ -1,3 +1,24 @@
+Basic Java
+1.Find out following output using java
+String: Welcome to HackerRank's Java tutorials!
+Double: 3.1415
+Int: 42
+for the following input
+42
+3.1415
+Welcome to HackerRank's Java tutorials!
+2. show the following output from the following input
+input
+java 100
+cpp 65
+python 50
+output
+================================
+java           100
+cpp            065
+python         050
+================================
+
 Create calculation between two numbers -using multiple class and constructors
 Create student registration and display total students - using inheritance
 Create ATM  application -Using Interface
