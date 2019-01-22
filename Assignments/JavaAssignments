@@ -19,6 +19,22 @@ java           100
 cpp            065
 python         050
 ================================
+3.There are certain codes which determines whether they are postive and negative if the sentence contains "not" then it is negative and if it
+  doesnt contains "not" then it is positive. and also ask the user for no of sentenses for eg:
+  Input :
+  No of sentenses : 3
+  sentence 1 : this is not my name
+  sentence 2 : this is my name
+  sentense 3 : i am not going anywhere.
+
+  Output:
+  Positive sentence :
+     sentence 2 : this is my name
+  Negative Sentence
+    sentence 1 : this is not my name
+     sentense 3 : i am not going anywhere.
+Chef was reading some quotes by great people. Now, he is interested in classifying all the fancy quotes he knows.
+He thinks that all fancy quotes which contain the word "not" are Real Fancy; quotes that do not contain it are regularly fancy.
 
 Create calculation between two numbers -using multiple class and constructors
 Create student registration and display total students - using inheritance
