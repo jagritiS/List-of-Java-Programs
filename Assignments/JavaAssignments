@@ -32,9 +32,21 @@ python         050
      sentence 2 : this is my name
   Negative Sentence
     sentence 1 : this is not my name
-     sentense 3 : i am not going anywhere.
+     sentense 3 : i am not going anywhere.if(btns.hasClass("btnStyle5")){
+                    alert("yes opt 3 green");
+
 Chef was reading some quotes by great people. Now, he is interested in classifying all the fancy quotes he knows.
 He thinks that all fancy quotes which contain the word "not" are Real Fancy; quotes that do not contain it are regularly fancy.
+4. Print the following output in a frame from the input given
+input = ["Hello", "I", "am", "a", "Learner"], input can be of any range .
+output
+**************
+* Hello      *
+* I          *
+* am         *
+* a          *
+* Learner    *
+**************
 
 Create calculation between two numbers -using multiple class and constructors
 Create student registration and display total students - using inheritance
