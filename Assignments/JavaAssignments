@@ -86,3 +86,22 @@ Lambda Expression
 16.Give no parameters prints Hello World! to the main output and returns void.
 17.Check whether the number is odd,even, prime, composite,palindrome
 
+Strings API
+For a given string convert it to a palindrome by adding characters in front of it.Find and return the shortest
+palindrome you can find by performing this transformation
+Example input : aacecaaa
+Output  : aaacecaaa
+Input : abcd
+Output : dcbabcd
+
+File handling :
+Input lines in a file followed by line number
+for eg if lines are :
+                        hello this is test
+                        hi i m here
+                        i like java
+ then output in the file will be
+
+                        1. hello this is test
+                        2. hi i m here
+                        3. i like java
