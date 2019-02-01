@@ -87,7 +87,10 @@ Lambda Expression
 17.Check whether the number is odd,even, prime, composite,palindrome
 
 Strings API
-For a given string convert it to a palindrome by adding characters in front of it.Find and return the shortest
+1. Reverse a string .
+    Eg :Input :  this is the subject that i like the most.
+    Output : .tsom eht ekil i taht tcejbus eht si siht
+2.For a given string convert it to a palindrome by adding characters in front of it.Find and return the shortest
 palindrome you can find by performing this transformation
 Example input : aacecaaa
 Output  : aaacecaaa
